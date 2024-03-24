@@ -1,0 +1,9 @@
+{
+    name: "nu-fonts-install"
+    version: 0.1.0
+    description: "A Nushell script to install fonts."
+    documentation: "https://github.com/amtoine/nu-fonts-install/blob/main/README.md"
+    maintainers: [@amtoine]
+    license: "https://github.com/amtoine/nu-fonts-install/blob/main/LICENSE"
+    type: "script"
+}
